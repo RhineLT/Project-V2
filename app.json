@@ -13,7 +13,7 @@
         },
          "AlterID": {
             "description": "Set AlterID to improve the difficulty of network traffic detection. The recommended value is set within 100",
-            "value": "16"
+            "value": "10"
         }
     },
     "repository": "https://github.com/RhineLT/Project-V2",
