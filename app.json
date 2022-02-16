@@ -11,6 +11,10 @@
             "description": "WebSocket Path",
             "value": "/"
         }
+         "AlterID": {
+            "description": "Set AlterID to improve the difficulty of network traffic detection. The recommended value is set within 100",
+            "value": "16"
+        }
     },
     "repository": "https://github.com/RhineLT/Project-V2",
     "stack": "container"
